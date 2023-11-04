@@ -1,0 +1,45 @@
+body {
+    background: #000;
+   
+}
+.text-lorem {
+    color: #fff;
+    font-size: 25px;
+
+}
+
+.block {
+    position: sticky; 
+    bottom: 0;
+    
+    }
+    
+.rectangle {
+    width: 50%;
+    min-height: 100px;
+    background: linear-gradient(#d4cfcf, #7f7c7c);
+    border-radius: 10px;
+    position: absolute;
+    left: 50%
+    position: relative;
+    top: auto;
+    left: auto ;
+    right: 50px; 
+    bottom: 100px;
+    
+
+}
+
+.rectangle__circle {
+    height: 100px;
+    width: 100px;
+    background-color: #fe0303;
+    border-radius: 50%;
+    position: relative;
+    top: auto ;
+    left: 100px ;
+    right: auto;
+    bottom: 50px ;
+    
+    }
+    
